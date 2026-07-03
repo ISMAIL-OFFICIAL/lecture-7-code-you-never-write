@@ -1,0 +1,14 @@
+Assignments:
+80
+90
+85
+
+Quizzes:
+70
+75
+
+Midterm:
+88
+
+Final:
+Not Taken

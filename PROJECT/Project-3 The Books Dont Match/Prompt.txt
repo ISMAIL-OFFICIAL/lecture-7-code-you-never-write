@@ -1,0 +1,12 @@
+I have a file called payments.txt with an expected total and payment records.
+Example:
+Expected Total: 500
+Ali,100 Ahmed,100 Sara,50 Bilal,100 John,100
+Write a Python script that:
+
+1. Reads the payment file.
+2. Extracts the expected total.
+3. Calculates the total amount received.
+4. Finds the missing amount.
+5. Displays the results clearly.
+Explain the code in simple English.

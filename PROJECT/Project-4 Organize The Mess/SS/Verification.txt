@@ -1,0 +1,26 @@
+Verification for Task 4
+
+Files Found:
+
+photo1.jpg
+photo1_copy.jpg
+notes.txt
+notes_copy.txt
+project.docx
+song.mp3
+
+Manual Verification:
+
+JPG Files = 2
+TXT Files = 2
+DOCX Files = 1
+
+Possible Duplicate Files:
+
+photo1.jpg and photo1_copy.jpg
+
+notes.txt and notes_copy.txt
+
+The script output matched the files present in the folder.
+
+Verification Successful.

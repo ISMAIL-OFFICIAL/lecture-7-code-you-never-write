@@ -1,0 +1,12 @@
+I have a folder called MessyFolder.
+
+I want a Python script that:
+
+1. Lists all files.
+2. Groups files by type.
+3. Finds possible duplicate files.
+4. Shows a dry-run report only.
+5. Does not delete, rename, or move files.
+6. Displays a clear summary.
+
+Explain the code in simple English.

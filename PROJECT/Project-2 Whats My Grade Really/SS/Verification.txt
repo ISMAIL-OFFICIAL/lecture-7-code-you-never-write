@@ -1,0 +1,28 @@
+Verification for Task 2 – What's My Grade, Really
+
+Assignment Scores:
+80 + 90 + 85 = 255
+255 ÷ 3 = 85
+
+Quiz Scores:
+70 + 75 = 145
+145 ÷ 2 = 72.5
+
+Midterm Score:
+88
+
+Manual Verification:
+
+Assignment Contribution:
+85 × 30% = 25.5
+
+Quiz Contribution:
+72.5 × 20% = 14.5
+
+Midterm Contribution:
+88 × 20% = 17.6
+
+Current Points Earned:
+25.5 + 14.5 + 17.6 = 57.6
+
+The manually calculated values matched the values produced by the script. Therefore, the grade calculation was verified successfully.

@@ -1,0 +1,7 @@
+Expected Total: 500
+
+Ali,100
+Ahmed,100
+Sara,50
+Bilal,100
+John,100

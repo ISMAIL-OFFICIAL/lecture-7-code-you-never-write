@@ -1,0 +1,15 @@
+Verification for Task 3
+
+Manual Calculation:
+
+100 + 100 + 50 + 100 + 100 = 450
+
+Expected Total = 500
+
+Missing Amount:
+
+500 - 450 = 50
+
+The manually calculated values matched the script output.
+
+Verification Successful.

@@ -1,0 +1,14 @@
+I have the following grading policy:
+
+Assignments = 30%
+Quizzes = 20%
+Midterm = 20%
+Final Exam = 30%
+
+Scores:
+
+Assignments: 80, 90, 85
+Quizzes: 70, 75
+Midterm: 88
+
+Write a Python script that calculates my current grade and tells me what score I need on the final exam to achieve an A grade.

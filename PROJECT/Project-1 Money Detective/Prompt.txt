@@ -1,0 +1,12 @@
+Prompt Used:
+
+I have transaction data with date, description, and amount.
+
+Write a Python script that:
+
+1. Finds recurring subscriptions.
+2. Finds duplicate or repeated payments.
+3. Calculates total spending.
+4. Creates a spending summary.
+
+Explain the code in simple English.
